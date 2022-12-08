@@ -5,7 +5,7 @@ import drop from "./drop.json";
 async function main() {
     const [owner] = await ethers.getSigners()
     const _address = "0xfe1c4a31516544a729e787fbcbb644e8999d61ee";
-    const _token = "0x1A444fF4C81982eD4632B8238491D8F3eB44d4C0"; //ERC20 Token
+    const _token = "0x1A444fF4C81982eD4632B8238491D8F3eB44d4C0"; 
 
     const _receivers: string[] = []
     const _amts: number[] = []
