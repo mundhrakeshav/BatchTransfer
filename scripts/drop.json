@@ -1,0 +1,1526 @@
+[
+    {
+        "addr": "D20ce27f650598c2d790714b4f6a7222b8ddce22",
+        "address": "0xD20ce27f650598c2d790714b4f6a7222b8ddce22",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "Ddada4a79d99d15b5daa5b515cc2fd7dcdde7559",
+        "address": "0xDdada4a79d99d15b5daa5b515cc2fd7dcdde7559",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "6f64a2de17da0923345a028bbb05e3ba46862277",
+        "address": "0x6f64a2de17da0923345a028bbb05e3ba46862277",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "73314e3162a4c6ecf37d7cfa437e2c9c98dc3dd4",
+        "address": "0x73314e3162a4c6ecf37d7cfa437e2c9c98dc3dd4",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "82acbee0e21ca256f5cbb32b7b141a774457569a",
+        "address": "0x82acbee0e21ca256f5cbb32b7b141a774457569a",
+        "amt": 1,
+        "claimed": true
+    },
+    {
+        "addr": "1146a2178f9e5bf2437a51fb2d2c487e83006f93",
+        "address": "0x1146a2178f9e5bf2437a51fb2d2c487e83006f93",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "5c2b25c2fd3bd98f6ed0628238077f84916ea74a",
+        "address": "0x5c2b25c2fd3bd98f6ed0628238077f84916ea74a",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "A93724c87709d84e1b2e6245cd283fd61fdc22c8",
+        "address": "0xA93724c87709d84e1b2e6245cd283fd61fdc22c8",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "4ba245c3d3ee8509e7470fa86ef921ad4a8fcd58",
+        "address": "0x4ba245c3d3ee8509e7470fa86ef921ad4a8fcd58",
+        "amt": 1,
+        "claimed": true
+    },
+    {
+        "addr": "26f6fef5b1ee7c6c7b4393db7f8843e7ead09948",
+        "address": "0x26f6fef5b1ee7c6c7b4393db7f8843e7ead09948",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "29a7c38d1e555c0af1186d34817dae96665129ce",
+        "address": "0x29a7c38d1e555c0af1186d34817dae96665129ce",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "28eef0330457d7243049c50fe69cd9c5cce32498",
+        "address": "0x28eef0330457d7243049c50fe69cd9c5cce32498",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "685b6326261c5ad99aba748ba12a303125e57bfa",
+        "address": "0x685b6326261c5ad99aba748ba12a303125e57bfa",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "605fe7cde88a014285e31a3807468274b66bf594",
+        "address": "0x605fe7cde88a014285e31a3807468274b66bf594",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "4a7fee43cde51c82e5762dfbf2bf46872c9832fe",
+        "address": "0x4a7fee43cde51c82e5762dfbf2bf46872c9832fe",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "29e76acc513b6c3530eb0a31a7d2e4bcdabbf7be",
+        "address": "0x29e76acc513b6c3530eb0a31a7d2e4bcdabbf7be",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "Fd7c29397447aa64c47aa042713b206d8986821a",
+        "address": "0xFd7c29397447aa64c47aa042713b206d8986821a",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "4e40243efd7e849ebed0eb982a2bb99a8ac7bc07",
+        "address": "0x4e40243efd7e849ebed0eb982a2bb99a8ac7bc07",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "3b0aa499cc6acde1d4a7433da6968d7bb8bd8509",
+        "address": "0x3b0aa499cc6acde1d4a7433da6968d7bb8bd8509",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "52af787439a82f36d6ef6b0da0f0e5ecce29ff90",
+        "address": "0x52af787439a82f36d6ef6b0da0f0e5ecce29ff90",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "994d0c5e289c9750849b916cd4961e1e7ddb451e",
+        "address": "0x994d0c5e289c9750849b916cd4961e1e7ddb451e",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "011dbaf4d5fa5260715115db22338f1fc0673d60",
+        "address": "0x011dbaf4d5fa5260715115db22338f1fc0673d60",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "137d9174d3bd00f2153dcc0fe7af712d3876a71e",
+        "address": "0x137d9174d3bd00f2153dcc0fe7af712d3876a71e",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "633d2239166ae6ef8d38ce1674c8bc405e2550b8",
+        "address": "0x633d2239166ae6ef8d38ce1674c8bc405e2550b8",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "7decf7a31168778f311c57b9a948abaa7321001e",
+        "address": "0x7decf7a31168778f311c57b9a948abaa7321001e",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "8297f322163482a152ba43ff7707cc1deb3db65f",
+        "address": "0x8297f322163482a152ba43ff7707cc1deb3db65f",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "D3a0eb70203c060459305402c667a4455e1d9432",
+        "address": "0xD3a0eb70203c060459305402c667a4455e1d9432",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "D49a5a55463013a6efe405b0637b1ac6ef8c5fb3",
+        "address": "0xD49a5a55463013a6efe405b0637b1ac6ef8c5fb3",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "8ca1d0e74b7e7d0a624bdb234cb16093555ae46b",
+        "address": "0x8ca1d0e74b7e7d0a624bdb234cb16093555ae46b",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "E44946a036d9c1f8438d4d2a33acd969d8c48706",
+        "address": "0xE44946a036d9c1f8438d4d2a33acd969d8c48706",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "1da37fcf2e0403057d61aaf0983832f17622a165",
+        "address": "0x1da37fcf2e0403057d61aaf0983832f17622a165",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "251c47ade226731051124b8b34bfe8c46a8f8874",
+        "address": "0x251c47ade226731051124b8b34bfe8c46a8f8874",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "B8dd0233640c8137d89e2a86ecd3b725ceca148d",
+        "address": "0xB8dd0233640c8137d89e2a86ecd3b725ceca148d",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "De29ddbd8471d29587d35d224ae03d94da2485ad",
+        "address": "0xDe29ddbd8471d29587d35d224ae03d94da2485ad",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "5e552827259a42d1b09e1f11615c31e9bcea56b2",
+        "address": "0x5e552827259a42d1b09e1f11615c31e9bcea56b2",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "D10de8798b8ea174c5ce8a98772198fcbc783f51",
+        "address": "0xD10de8798b8ea174c5ce8a98772198fcbc783f51",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "56c2eee0ac6d6618e83c07137557a0bb1c3a866d",
+        "address": "0x56c2eee0ac6d6618e83c07137557a0bb1c3a866d",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "Cb28f90dcab551f9fc17afdd85a09495a87f078e",
+        "address": "0xCb28f90dcab551f9fc17afdd85a09495a87f078e",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "2efca8339b33e2cf01cd55a6e85c1c5e9748ac70",
+        "address": "0x2efca8339b33e2cf01cd55a6e85c1c5e9748ac70",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "547f6f66738afe6dd4117d67452d7d4772315d79",
+        "address": "0x547f6f66738afe6dd4117d67452d7d4772315d79",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "4dbf690c9c7b801ac8e65279b648b2d7ad451e6d",
+        "address": "0x4dbf690c9c7b801ac8e65279b648b2d7ad451e6d",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "Af2d7878c99601f1a397bfa99bfafe000aa9efe2",
+        "address": "0xAf2d7878c99601f1a397bfa99bfafe000aa9efe2",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "D6c468533b16556159314142b7e5250cacc7bcb5",
+        "address": "0xD6c468533b16556159314142b7e5250cacc7bcb5",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "37b6274ecc034f96b3a1dbb77709680bc394ce8e",
+        "address": "0x37b6274ecc034f96b3a1dbb77709680bc394ce8e",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "364c575b1549c0b232fe4ed6ec1ec6163a6312af",
+        "address": "0x364c575b1549c0b232fe4ed6ec1ec6163a6312af",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "Ba2fd352b52b284ca24e69cff367c1e98a33d846",
+        "address": "0xBa2fd352b52b284ca24e69cff367c1e98a33d846",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "9e5f90d93ae01108e326b7401a70fdcea8ce1403",
+        "address": "0x9e5f90d93ae01108e326b7401a70fdcea8ce1403",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "Ee7949860f999debc4628aa542c08af8a74b73a7",
+        "address": "0xEe7949860f999debc4628aa542c08af8a74b73a7",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "D578a6d0958537c39cd9d6599ab83ed7f410f93b",
+        "address": "0xD578a6d0958537c39cd9d6599ab83ed7f410f93b",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "Fea8112a76d5800336797d50dfeceacee22835ba",
+        "address": "0xFea8112a76d5800336797d50dfeceacee22835ba",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "335055cd1d4eafe238cee71c9a7a121909c0b558",
+        "address": "0x335055cd1d4eafe238cee71c9a7a121909c0b558",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "21bb090d3d4afb417d841173b0abe6c856071f2e",
+        "address": "0x21bb090d3d4afb417d841173b0abe6c856071f2e",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "6a9afd998c2b0c621e09648a098b0bd7df19d776",
+        "address": "0x6a9afd998c2b0c621e09648a098b0bd7df19d776",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "881beacd0ce37171fc032be7fe3abee7c574f2c6",
+        "address": "0x881beacd0ce37171fc032be7fe3abee7c574f2c6",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "54a5804fca4f47f3cf57fafc3795c965509a7775",
+        "address": "0x54a5804fca4f47f3cf57fafc3795c965509a7775",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "D0ad1a2a3d7e39ca443d86dada38888c5977dcae",
+        "address": "0xD0ad1a2a3d7e39ca443d86dada38888c5977dcae",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "B20e7ffea12d544420acab5dc89a99eec285485b",
+        "address": "0xB20e7ffea12d544420acab5dc89a99eec285485b",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "D8e769a87ff31beffaecdcebfcdeebd8f2a5ad98",
+        "address": "0xD8e769a87ff31beffaecdcebfcdeebd8f2a5ad98",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "2df79e0c33f1a077e1ffaaf364cde4aa03c0add9",
+        "address": "0x2df79e0c33f1a077e1ffaaf364cde4aa03c0add9",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "Ee49f82e58a1c2b306720d0c68047cbf70c11fb5",
+        "address": "0xEe49f82e58a1c2b306720d0c68047cbf70c11fb5",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "25751b0843f7081f908be68402c82b2ab15cab9c",
+        "address": "0x25751b0843f7081f908be68402c82b2ab15cab9c",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "Ed14aec52ef558b51cbfadd9927c85d5f4af7898",
+        "address": "0xEd14aec52ef558b51cbfadd9927c85d5f4af7898",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "409f123dbf879da6fec6c2569580427ff44fe7c9",
+        "address": "0x409f123dbf879da6fec6c2569580427ff44fe7c9",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "E06f9f90c459031d5d7f612ea12899d1f2649979",
+        "address": "0xE06f9f90c459031d5d7f612ea12899d1f2649979",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "F6330de94b60a063f547f7b9dfaa5a624cbda702",
+        "address": "0xF6330de94b60a063f547f7b9dfaa5a624cbda702",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "3e5ab330af5069d87dec74a313b9753491f169dc",
+        "address": "0x3e5ab330af5069d87dec74a313b9753491f169dc",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "1261968987c5cfa710cdcddddfbeab264cbd4e47",
+        "address": "0x1261968987c5cfa710cdcddddfbeab264cbd4e47",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "9f7064dfe6ca5856b3afd7a3b3974686a35bdab5",
+        "address": "0x9f7064dfe6ca5856b3afd7a3b3974686a35bdab5",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "D04f0012e87d10204227e8a3a1ed07eb8caa142b",
+        "address": "0xD04f0012e87d10204227e8a3a1ed07eb8caa142b",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "5a09cff2c1de77af2dec6ba384dddc0f544b87c7",
+        "address": "0x5a09cff2c1de77af2dec6ba384dddc0f544b87c7",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "De29cfb73bc319a4d6629ae0e23bf3ffc241e6cb",
+        "address": "0xDe29cfb73bc319a4d6629ae0e23bf3ffc241e6cb",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "39caf0803c07757ec6739617f3be1c6054fa11a2",
+        "address": "0x39caf0803c07757ec6739617f3be1c6054fa11a2",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "778cb74ca8469e06a184725b9913c2a1594095b7",
+        "address": "0x778cb74ca8469e06a184725b9913c2a1594095b7",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "50add54a6e0eb6d552dc447225e22142bb8048ca",
+        "address": "0x50add54a6e0eb6d552dc447225e22142bb8048ca",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "92b33b117d44b16e42b1e12c392916e496d8f575",
+        "address": "0x92b33b117d44b16e42b1e12c392916e496d8f575",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "3f071a751294d7f379dd8902eb4134f0ef83fdc3",
+        "address": "0x3f071a751294d7f379dd8902eb4134f0ef83fdc3",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "C47a1c7e852d2d6352a7454af016730576527312",
+        "address": "0xC47a1c7e852d2d6352a7454af016730576527312",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "27e5705778d31bba7c0b21c7c471c0d243a2e6e8",
+        "address": "0x27e5705778d31bba7c0b21c7c471c0d243a2e6e8",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "B17cd718a6a4776f1180cf3ba6fcd29fad9fab6d",
+        "address": "0xB17cd718a6a4776f1180cf3ba6fcd29fad9fab6d",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "B41ea323eed17d1458f744f679241832a6e54ac0",
+        "address": "0xB41ea323eed17d1458f744f679241832a6e54ac0",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "54705d845b8cb3d9ba19b9120da8d4b3d2e6d86a",
+        "address": "0x54705d845b8cb3d9ba19b9120da8d4b3d2e6d86a",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "259ae15e3b07e051ddef0b76d06f136e0bc24aad",
+        "address": "0x259ae15e3b07e051ddef0b76d06f136e0bc24aad",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "67b0d131e8c066137733dc312103cd47a6b8a8fd",
+        "address": "0x67b0d131e8c066137733dc312103cd47a6b8a8fd",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "452947a1de545e14fd377e9071ae4a7c34113349",
+        "address": "0x452947a1de545e14fd377e9071ae4a7c34113349",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "4744cda32be7b3e75b9334001da9ed21789d4c0d",
+        "address": "0x4744cda32be7b3e75b9334001da9ed21789d4c0d",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "93fcd76afa17c6854be6502ae34cd078fb7f20c4",
+        "address": "0x93fcd76afa17c6854be6502ae34cd078fb7f20c4",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "A6a07e1fdd03e88930b3a1292983466db2cc8105",
+        "address": "0xA6a07e1fdd03e88930b3a1292983466db2cc8105",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "3e05fc835a92fa1ad481c623d1f5097bfd55bb18",
+        "address": "0x3e05fc835a92fa1ad481c623d1f5097bfd55bb18",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "Ef499034e7eee113804e97c551c79e011f1994e6",
+        "address": "0xEf499034e7eee113804e97c551c79e011f1994e6",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "F0cf5171f1ab7b0084061f79c7626d426e2a9e32",
+        "address": "0xF0cf5171f1ab7b0084061f79c7626d426e2a9e32",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "7424724041c5627393bddfa508d81f2fab3938ae",
+        "address": "0x7424724041c5627393bddfa508d81f2fab3938ae",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "Ee98be0438d7f01d0636f15f983f5e24099a5596",
+        "address": "0xEe98be0438d7f01d0636f15f983f5e24099a5596",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "3932a89f17796cf6c0f6b63973fc4b768952cce8",
+        "address": "0x3932a89f17796cf6c0f6b63973fc4b768952cce8",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "6b85c6e03a939cb37942f882ee2310e5af3642bb",
+        "address": "0x6b85c6e03a939cb37942f882ee2310e5af3642bb",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "6091a224ec0e8bae16125603d179d9fce7aad641",
+        "address": "0x6091a224ec0e8bae16125603d179d9fce7aad641",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "0db5e7924d87d2ec27876882e7af911a58050dd1",
+        "address": "0x0db5e7924d87d2ec27876882e7af911a58050dd1",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "3861dd49aa50ca22c61bc0e3bb0f3d597cc15232",
+        "address": "0x3861dd49aa50ca22c61bc0e3bb0f3d597cc15232",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "7078f4ac06393093bcbf6920a8bd3d202fdfd08b",
+        "address": "0x7078f4ac06393093bcbf6920a8bd3d202fdfd08b",
+        "amt": 1,
+        "claimed": true
+    },
+    {
+        "addr": "92baffdd6cfb11a4e57a58ffec4833b4d1abd25d",
+        "address": "0x92baffdd6cfb11a4e57a58ffec4833b4d1abd25d",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "77774af9625b8a4b16702e0e35abd3a14cc1f28f",
+        "address": "0x77774af9625b8a4b16702e0e35abd3a14cc1f28f",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "Bcca52778329c6c5d406ef807cfb5e2f7afdf8c0",
+        "address": "0xBcca52778329c6c5d406ef807cfb5e2f7afdf8c0",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "25a765834c56e5daa26ac110a671e54740129042",
+        "address": "0x25a765834c56e5daa26ac110a671e54740129042",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "Cdaeb17628c33a28f21c3a635a2e09d33742dae8",
+        "address": "0xCdaeb17628c33a28f21c3a635a2e09d33742dae8",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "8264e9e0f4cbcbbbb3f8ecaec0a625b590ae790e",
+        "address": "0x8264e9e0f4cbcbbbb3f8ecaec0a625b590ae790e",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "Fb0ef910303d258c0121eab25f1de6753e8574bc",
+        "address": "0xFb0ef910303d258c0121eab25f1de6753e8574bc",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "1d95b0b6d3582feec7ef35d2ccf91564ded0cf7f",
+        "address": "0x1d95b0b6d3582feec7ef35d2ccf91564ded0cf7f",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "F3e70cde232478a77a65102c1fe93b396c8b1322",
+        "address": "0xF3e70cde232478a77a65102c1fe93b396c8b1322",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "61f4abbc0378459336de4fd4a8c3b09628a993b5",
+        "address": "0x61f4abbc0378459336de4fd4a8c3b09628a993b5",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "1208f655a0c915a6e0231cccae037982627103f3",
+        "address": "0x1208f655a0c915a6e0231cccae037982627103f3",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "B76af3b2d258c35ccbc2384f26259618b5a4eb73",
+        "address": "0xB76af3b2d258c35ccbc2384f26259618b5a4eb73",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "Ab6ca2017548a170699890214bfd66583a0c1754",
+        "address": "0xAb6ca2017548a170699890214bfd66583a0c1754",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "3df364ed7e8a887f7f9c240f7e281a4ea05ce03f",
+        "address": "0x3df364ed7e8a887f7f9c240f7e281a4ea05ce03f",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "Dbb75b6e9d310647eb8caa1cc3903c4ac33276d7",
+        "address": "0xDbb75b6e9d310647eb8caa1cc3903c4ac33276d7",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "616bfb6f687cc58a4cea7919395f3a54511a8732",
+        "address": "0x616bfb6f687cc58a4cea7919395f3a54511a8732",
+        "amt": 1,
+        "claimed": true
+    },
+    {
+        "addr": "738027f2d60d05b3b136893fd9c97a75f737bb8e",
+        "address": "0x738027f2d60d05b3b136893fd9c97a75f737bb8e",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "4a3d61fe06a9de4838b57b3f16f8f8f10c7cc140",
+        "address": "0x4a3d61fe06a9de4838b57b3f16f8f8f10c7cc140",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "D79b812c8570508c04faba959e5fbb19230a6de2",
+        "address": "0xD79b812c8570508c04faba959e5fbb19230a6de2",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "85c0c09570c955f6e07522e9ad6041716cbbb7fe",
+        "address": "0x85c0c09570c955f6e07522e9ad6041716cbbb7fe",
+        "amt": 1,
+        "claimed": true
+    },
+    {
+        "addr": "F1c26f96eeea3340f82c46d999495eaa77ea6ce7",
+        "address": "0xF1c26f96eeea3340f82c46d999495eaa77ea6ce7",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "161ea288055b58fb182f72b124a5d0f367b099e4",
+        "address": "0x161ea288055b58fb182f72b124a5d0f367b099e4",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "Edba5d56d0147aee8a227d284bcaac03b4a87ed4",
+        "address": "0xEdba5d56d0147aee8a227d284bcaac03b4a87ed4",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "B0dec0631340c6fd3dea457408a2a124a4357889",
+        "address": "0xB0dec0631340c6fd3dea457408a2a124a4357889",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "1048e1ea6538a43aab59deafced71a742866e3f6",
+        "address": "0x1048e1ea6538a43aab59deafced71a742866e3f6",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "0eb47beabd9ce2cab7cbed57aa6b040975bdc1b7",
+        "address": "0x0eb47beabd9ce2cab7cbed57aa6b040975bdc1b7",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "704c978d50590b21e4c2f43eb4da24fe61fcd707",
+        "address": "0x704c978d50590b21e4c2f43eb4da24fe61fcd707",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "C3a538864600c21fd57eb45cdaca0f1665dccd8f",
+        "address": "0xC3a538864600c21fd57eb45cdaca0f1665dccd8f",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "24acfb5dd795b35f7687f3c0fe965e92cff56c4d",
+        "address": "0x24acfb5dd795b35f7687f3c0fe965e92cff56c4d",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "300da191248a500b2174aed992d6697bf97f9139",
+        "address": "0x300da191248a500b2174aed992d6697bf97f9139",
+        "amt": 1,
+        "claimed": true
+    },
+    {
+        "addr": "6e63a4caeccb4f341ee9c9175c9cc554bdb6d10b",
+        "address": "0x6e63a4caeccb4f341ee9c9175c9cc554bdb6d10b",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "A74c18edd17316bc05f2e1b2c2666c9312f44e9d",
+        "address": "0xA74c18edd17316bc05f2e1b2c2666c9312f44e9d",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "74ec638d8e82ab4e7aacac77ef47a49e735ca7dd",
+        "address": "0x74ec638d8e82ab4e7aacac77ef47a49e735ca7dd",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "B62dcf1ff29065b430fd7ffb1df8244854cb9053",
+        "address": "0xB62dcf1ff29065b430fd7ffb1df8244854cb9053",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "E4ee4fc214ed22d0951235f798a5038c5df368c9",
+        "address": "0xE4ee4fc214ed22d0951235f798a5038c5df368c9",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "512c6c58f2256ea86777b349d84e88bfbc155bc7",
+        "address": "0x512c6c58f2256ea86777b349d84e88bfbc155bc7",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "7a198392a9fd3b24cd6f3cbf9f15ed48269c8fcf",
+        "address": "0x7a198392a9fd3b24cd6f3cbf9f15ed48269c8fcf",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "Aca056daaa8241843a2d90057272024e9583de93",
+        "address": "0xAca056daaa8241843a2d90057272024e9583de93",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "6f26ce8ccef85afbc944567bd41d63d09d3e3033",
+        "address": "0x6f26ce8ccef85afbc944567bd41d63d09d3e3033",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "9788e8a2de43664da334c3cf8f69041fe5858470",
+        "address": "0x9788e8a2de43664da334c3cf8f69041fe5858470",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "38eff2285a0e3e2eab18c4f3b0765a833c752f1f",
+        "address": "0x38eff2285a0e3e2eab18c4f3b0765a833c752f1f",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "Edf3c015a608ee7db0d205f60a1641b026515b59",
+        "address": "0xEdf3c015a608ee7db0d205f60a1641b026515b59",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "Bdf18ecc3325d7598dcf60b970b64357bd8c4c9f",
+        "address": "0xBdf18ecc3325d7598dcf60b970b64357bd8c4c9f",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "Ad20c809d837af4de1b52c179e9d217d52eb1725",
+        "address": "0xAd20c809d837af4de1b52c179e9d217d52eb1725",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "8745000f72f93f585868169e411bb05d6829e6f7",
+        "address": "0x8745000f72f93f585868169e411bb05d6829e6f7",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "50aa3eaefdbec5fe1fba5b419b77126475188691",
+        "address": "0x50aa3eaefdbec5fe1fba5b419b77126475188691",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "A0a21a9785d10a44ca2835b7e41edff70f3064ed",
+        "address": "0xA0a21a9785d10a44ca2835b7e41edff70f3064ed",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "095d3f27c804bc892f58579046e9d3ad5f652e72",
+        "address": "0x095d3f27c804bc892f58579046e9d3ad5f652e72",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "Ca1f51d591cfb771c8bd0f7622ea3b80cfe63cf1",
+        "address": "0xCa1f51d591cfb771c8bd0f7622ea3b80cfe63cf1",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "35937462a74d3c64b173a755a40c916e912a8eb5",
+        "address": "0x35937462a74d3c64b173a755a40c916e912a8eb5",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "2e0b873d26f6d90f347757ed0d041bc65e02a89f",
+        "address": "0x2e0b873d26f6d90f347757ed0d041bc65e02a89f",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "Aeabe406dc05d621258543ef1950b3beccabc9f9",
+        "address": "0xAeabe406dc05d621258543ef1950b3beccabc9f9",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "Cf9741bbce8ba8ec2b0dc8f23399a0bcf5c019d5",
+        "address": "0xCf9741bbce8ba8ec2b0dc8f23399a0bcf5c019d5",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "0d725b64d9e5f7c4f9c95d6bef168f80d1fc9d1d",
+        "address": "0x0d725b64d9e5f7c4f9c95d6bef168f80d1fc9d1d",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "7078f4ac06393093bcbf6920a8bd3d202fdfd08b",
+        "address": "0x7078f4ac06393093bcbf6920a8bd3d202fdfd08b",
+        "amt": 1,
+        "claimed": true
+    },
+    {
+        "addr": "8087682879a674775889ba3becd54e0951645dd3",
+        "address": "0x8087682879a674775889ba3becd54e0951645dd3",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "D44031d54bc3ec27d7235a3b015193a0fc82c0cb",
+        "address": "0xD44031d54bc3ec27d7235a3b015193a0fc82c0cb",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "F52393e120f918ffba50410b90a29b1f8250c880",
+        "address": "0xF52393e120f918ffba50410b90a29b1f8250c880",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "F52393e120f918ffba50410b90a29b1f8250c881",
+        "address": "0xF52393e120f918ffba50410b90a29b1f8250c881",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "F52393e120f918ffba50410b90a29b1f8250c882",
+        "address": "0xF52393e120f918ffba50410b90a29b1f8250c882",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "F52393e120f918ffba50410b90a29b1f8250c883",
+        "address": "0xF52393e120f918ffba50410b90a29b1f8250c883",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "F52393e120f918ffba50410b90a29b1f8250c884",
+        "address": "0xF52393e120f918ffba50410b90a29b1f8250c884",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "F52393e120f918ffba50410b90a29b1f8250c885",
+        "address": "0xF52393e120f918ffba50410b90a29b1f8250c885",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "3e05fc835a92fa1ad481c623d1f5097bfd55bb18",
+        "address": "0x3e05fc835a92fa1ad481c623d1f5097bfd55bb18",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "2f920553324ece2ce05ca0292387598624a3dddb",
+        "address": "0x2f920553324ece2ce05ca0292387598624a3dddb",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "C9a72aeb879b09501a6e207d8aced11d7b425f7d",
+        "address": "0xC9a72aeb879b09501a6e207d8aced11d7b425f7d",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "333940bdcc7429db906b9f7942d53252e5ebc966",
+        "address": "0x333940bdcc7429db906b9f7942d53252e5ebc966",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "Aca056daaa8241843a2d90057272024e9583de93",
+        "address": "0xAca056daaa8241843a2d90057272024e9583de93",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "Bdf18ecc3325d7598dcf60b970b64357bd8c4c9f",
+        "address": "0xBdf18ecc3325d7598dcf60b970b64357bd8c4c9f",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "512c6c58f2256ea86777b349d84e88bfbc155bc7",
+        "address": "0x512c6c58f2256ea86777b349d84e88bfbc155bc7",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "Dbb5dc30131af014c81a849490917ed91adc43b1",
+        "address": "0xDbb5dc30131af014c81a849490917ed91adc43b1",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "7895e668bd43c9623af538f274c06cb22cbc74f2",
+        "address": "0x7895e668bd43c9623af538f274c06cb22cbc74f2",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "A949b1c18234c45632f460a27cfad08e5ab6ce26",
+        "address": "0xA949b1c18234c45632f460a27cfad08e5ab6ce26",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "4bc3b16d381b60caa4b77e9a3cdd6e24da2d35ae",
+        "address": "0x4bc3b16d381b60caa4b77e9a3cdd6e24da2d35ae",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "D4d8564baace86315f02e91d1afd54a5979719e3",
+        "address": "0xD4d8564baace86315f02e91d1afd54a5979719e3",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "F6b1a88d33ef451cfb23f2172ffb8860f7844fb6",
+        "address": "0xF6b1a88d33ef451cfb23f2172ffb8860f7844fb6",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "3b3f04deb78e8d12929af043b12b605e552eeace",
+        "address": "0x3b3f04deb78e8d12929af043b12b605e552eeace",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "F82a0e1d64327ad28f999e73ddbe08e89ff3342e",
+        "address": "0xF82a0e1d64327ad28f999e73ddbe08e89ff3342e",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "9af481276b075e036bc23e887a8bd275e69ef74c",
+        "address": "0x9af481276b075e036bc23e887a8bd275e69ef74c",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "2cd25fd9926827d04ea8ea55b2f0ca5c1a28f8a2",
+        "address": "0x2cd25fd9926827d04ea8ea55b2f0ca5c1a28f8a2",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "F2a841f4025159e5a845de3172384a7bca00ddde",
+        "address": "0xF2a841f4025159e5a845de3172384a7bca00ddde",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "35811d86cfa5f3c8f80b01992681d4683442c3c9",
+        "address": "0x35811d86cfa5f3c8f80b01992681d4683442c3c9",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "762da606029d3120735aa1eec15464e265db7a3c",
+        "address": "0x762da606029d3120735aa1eec15464e265db7a3c",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "78db9fa7214765014732cd9b32947a96473e7133",
+        "address": "0x78db9fa7214765014732cd9b32947a96473e7133",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "69e11a201756fb2e9326ebd3e57a9fd8ad4ba4a5",
+        "address": "0x69e11a201756fb2e9326ebd3e57a9fd8ad4ba4a5",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "C51e72ff5d64ec5543a093f55362b0c7fa936929",
+        "address": "0xC51e72ff5d64ec5543a093f55362b0c7fa936929",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "2cd25fd9926827d04ea8ea55b2f0ca5c1a28f8a2",
+        "address": "0x2cd25fd9926827d04ea8ea55b2f0ca5c1a28f8a2",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "7a198392a9fd3b24cd6f3cbf9f15ed48269c8fcf",
+        "address": "0x7a198392a9fd3b24cd6f3cbf9f15ed48269c8fcf",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "D4d8564baace86315f02e91d1afd54a5979719e3",
+        "address": "0xD4d8564baace86315f02e91d1afd54a5979719e3",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "3b3f04deb78e8d12929af043b12b605e552eeace",
+        "address": "0x3b3f04deb78e8d12929af043b12b605e552eeace",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "4375e38ab575e63b5247b4330c4d9fe93172af2d",
+        "address": "0x4375e38ab575e63b5247b4330c4d9fe93172af2d",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "6ee40d2da63f7f185cc3654af1af8668e571ecb9",
+        "address": "0x6ee40d2da63f7f185cc3654af1af8668e571ecb9",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "3e099af007cab8233d44782d8e6fe80fecdc321e",
+        "address": "0x3e099af007cab8233d44782d8e6fe80fecdc321e",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "96d2b5bfa179ce0979fef08ca7ecec497b050b75",
+        "address": "0x96d2b5bfa179ce0979fef08ca7ecec497b050b75",
+        "amt": 1,
+        "claimed": false
+    },
+    {
+        "addr": "8e63e4376dde62cb82f5a91c4bce4156457dedb1",
+        "address": "0x8e63e4376dde62cb82f5a91c4bce4156457dedb1",
+        "amt": 2,
+        "claimed": true
+    },
+    {
+        "addr": "F82a0e1d64327ad28f999e73ddbe08e89ff3342e",
+        "address": "0xF82a0e1d64327ad28f999e73ddbe08e89ff3342e",
+        "amt": 2,
+        "claimed": false
+    },
+    {
+        "addr": "Cf9741bbce8ba8ec2b0dc8f23399a0bcf5c019d5",
+        "address": "0xCf9741bbce8ba8ec2b0dc8f23399a0bcf5c019d5",
+        "amt": 2,
+        "claimed": false
+    },
+    {
+        "addr": "Ecd5e98bd002708868f36bb6daa29e16f11b98c0",
+        "address": "0xEcd5e98bd002708868f36bb6daa29e16f11b98c0",
+        "amt": 2,
+        "claimed": false
+    },
+    {
+        "addr": "84300dcc7ca9cf447e886fa17c11fa22557d1af0",
+        "address": "0x84300dcc7ca9cf447e886fa17c11fa22557d1af0",
+        "amt": 2,
+        "claimed": false
+    },
+    {
+        "addr": "1feac55ad157451948953da70a10586c007d1c89",
+        "address": "0x1feac55ad157451948953da70a10586c007d1c89",
+        "amt": 2,
+        "claimed": false
+    },
+    {
+        "addr": "Ade9c47841e3ad3d66fd8031cc4a716770b59a12",
+        "address": "0xAde9c47841e3ad3d66fd8031cc4a716770b59a12",
+        "amt": 2,
+        "claimed": false
+    },
+    {
+        "addr": "A0af0ea0d75baf7486a5e8bbe0e19b06531bab8b",
+        "address": "0xA0af0ea0d75baf7486a5e8bbe0e19b06531bab8b",
+        "amt": 2,
+        "claimed": false
+    },
+    {
+        "addr": "Cbe8340bbe38de99cc86508d75ca611eff7a3426",
+        "address": "0xCbe8340bbe38de99cc86508d75ca611eff7a3426",
+        "amt": 2,
+        "claimed": false
+    },
+    {
+        "addr": "3d6963f33c3f026f60cb5ea5ebdff8e630a2fccc",
+        "address": "0x3d6963f33c3f026f60cb5ea5ebdff8e630a2fccc",
+        "amt": 2,
+        "claimed": false
+    },
+    {
+        "addr": "Bbd0a6217174528bd0c7f9e86854482a7f08a6d7",
+        "address": "0xBbd0a6217174528bd0c7f9e86854482a7f08a6d7",
+        "amt": 2,
+        "claimed": false
+    },
+    {
+        "addr": "887b86b6b6957f7bbea88b8cefd392f39236a88c",
+        "address": "0x887b86b6b6957f7bbea88b8cefd392f39236a88c",
+        "amt": 2,
+        "claimed": false
+    },
+    {
+        "addr": "4a4e73b5f48d34423ac9e160c9ab1ccc1a69af87",
+        "address": "0x4a4e73b5f48d34423ac9e160c9ab1ccc1a69af87",
+        "amt": 2,
+        "claimed": false
+    },
+    {
+        "addr": "E9c24df9f388666f5a1711c79cf4238e8bb0f46e",
+        "address": "0xE9c24df9f388666f5a1711c79cf4238e8bb0f46e",
+        "amt": 2,
+        "claimed": false
+    },
+    {
+        "addr": "E279e45184a417209b6fa1e0eaf703617464abed",
+        "address": "0xE279e45184a417209b6fa1e0eaf703617464abed",
+        "amt": 2,
+        "claimed": false
+    },
+    {
+        "addr": "Fdabd1d24e0f77b26bd514a1fa9027916f987fd8",
+        "address": "0xFdabd1d24e0f77b26bd514a1fa9027916f987fd8",
+        "amt": 2,
+        "claimed": false
+    },
+    {
+        "addr": "F2a841f4025159e5a845de3172384a7bca00ddde",
+        "address": "0xF2a841f4025159e5a845de3172384a7bca00ddde",
+        "amt": 2,
+        "claimed": false
+    },
+    {
+        "addr": "3e4212a18e31e1888288f70d5c8d3a593eccf680",
+        "address": "0x3e4212a18e31e1888288f70d5c8d3a593eccf680",
+        "amt": 2,
+        "claimed": false
+    },
+    {
+        "addr": "Af812e8babab3173edce179fe6fc6c2b1c482e39",
+        "address": "0xAf812e8babab3173edce179fe6fc6c2b1c482e39",
+        "amt": 2,
+        "claimed": false
+    },
+    {
+        "addr": "198fa3a7a4087ee868205a44ca005252e02e47e2",
+        "address": "0x198fa3a7a4087ee868205a44ca005252e02e47e2",
+        "amt": 2,
+        "claimed": false
+    },
+    {
+        "addr": "5e5844cafc6e0cf879d18bd53a59905e4bf7838d",
+        "address": "0x5e5844cafc6e0cf879d18bd53a59905e4bf7838d",
+        "amt": 2,
+        "claimed": false
+    },
+    {
+        "addr": "7284a8451d9a0e7dc62b3a71c0593ea2ec5c5638",
+        "address": "0x7284a8451d9a0e7dc62b3a71c0593ea2ec5c5638",
+        "amt": 2,
+        "claimed": true
+    },
+    {
+        "addr": "7d3b2acb1a40f09eba725440e14a0e0e5eab4bf4",
+        "address": "0x7d3b2acb1a40f09eba725440e14a0e0e5eab4bf4",
+        "amt": 2,
+        "claimed": false
+    },
+    {
+        "addr": "09cdd1ec94503878479e472cfb3573e145370a86",
+        "address": "0x09cdd1ec94503878479e472cfb3573e145370a86",
+        "amt": 2,
+        "claimed": false
+    },
+    {
+        "addr": "A16ce88f9f702d390244ce016f9416b23c9c3027",
+        "address": "0xA16ce88f9f702d390244ce016f9416b23c9c3027",
+        "amt": 2,
+        "claimed": false
+    },
+    {
+        "addr": "4c9421665e25f6b7d0989d0e3d6d55f917f2d8b6",
+        "address": "0x4c9421665e25f6b7d0989d0e3d6d55f917f2d8b6",
+        "amt": 2,
+        "claimed": false
+    },
+    {
+        "addr": "9a3acb42d506767f7d83c3b6f2ead417adc1cdaf",
+        "address": "0x9a3acb42d506767f7d83c3b6f2ead417adc1cdaf",
+        "amt": 2,
+        "claimed": false
+    },
+    {
+        "addr": "6e4f75c91125f6a81316f0b48b31c12fb85a51b9",
+        "address": "0x6e4f75c91125f6a81316f0b48b31c12fb85a51b9",
+        "amt": 2,
+        "claimed": false
+    },
+    {
+        "addr": "Fea86f8374bbd579db35d1006c38c11830827386",
+        "address": "0xFea86f8374bbd579db35d1006c38c11830827386",
+        "amt": 2,
+        "claimed": false
+    },
+    {
+        "addr": "0bb75bef057da63a0ae4b25fe9adafd35cd92b87",
+        "address": "0x0bb75bef057da63a0ae4b25fe9adafd35cd92b87",
+        "amt": 2,
+        "claimed": false
+    },
+    {
+        "addr": "A420d99a9859cf648134d70669f426398c2cdf31",
+        "address": "0xA420d99a9859cf648134d70669f426398c2cdf31",
+        "amt": 2,
+        "claimed": false
+    },
+    {
+        "addr": "85c0c09570c955f6e07522e9ad6041716cbbb7fe",
+        "address": "0x85c0c09570c955f6e07522e9ad6041716cbbb7fe",
+        "amt": 2,
+        "claimed": true
+    },
+    {
+        "addr": "234bab2648ca50fe14b8495bf77a923585105b57",
+        "address": "0x234bab2648ca50fe14b8495bf77a923585105b57",
+        "amt": 2,
+        "claimed": false
+    },
+    {
+        "addr": "Ecd5e98bd002708868f36bb6daa29e16f11b98c0",
+        "address": "0xEcd5e98bd002708868f36bb6daa29e16f11b98c0",
+        "amt": 2,
+        "claimed": false
+    },
+    {
+        "addr": "D387a6e4e84a6c86bd90c158c6028a58cc8ac459",
+        "address": "0xD387a6e4e84a6c86bd90c158c6028a58cc8ac459",
+        "amt": 2,
+        "claimed": false
+    },
+    {
+        "addr": "F52393e120f918ffba50410b90a29b1f8250c879",
+        "address": "0xF52393e120f918ffba50410b90a29b1f8250c879",
+        "amt": 2,
+        "claimed": false
+    },
+    {
+        "addr": "0f13316b80872eda120d7844ed1c1e90fc001dc1",
+        "address": "0x0f13316b80872eda120d7844ed1c1e90fc001dc1",
+        "amt": 2,
+        "claimed": false
+    },
+    {
+        "addr": "6f0e052d42fa22a865f4547ab953e3c8f22c98c4",
+        "address": "0x6f0e052d42fa22a865f4547ab953e3c8f22c98c4",
+        "amt": 2,
+        "claimed": false
+    },
+    {
+        "addr": "6ee40d2da63f7f185cc3654af1af8668e571ecb9",
+        "address": "0x6ee40d2da63f7f185cc3654af1af8668e571ecb9",
+        "amt": 2,
+        "claimed": false
+    },
+    {
+        "addr": "B276a9a6e7414529873af8b149369602c3a6206c",
+        "address": "0xB276a9a6e7414529873af8b149369602c3a6206c",
+        "amt": 3,
+        "claimed": true
+    },
+    {
+        "addr": "2debdf4427ccbcfdbc7f29d63964499a0ec184f6",
+        "address": "0x2debdf4427ccbcfdbc7f29d63964499a0ec184f6",
+        "amt": 3,
+        "claimed": false
+    },
+    {
+        "addr": "2df8063c53ebd6270acde4e996a925c531fcfdfe",
+        "address": "0x2df8063c53ebd6270acde4e996a925c531fcfdfe",
+        "amt": 3,
+        "claimed": false
+    },
+    {
+        "addr": "D95a83365491eb657cfaa9db0542051bd7e1853d",
+        "address": "0xD95a83365491eb657cfaa9db0542051bd7e1853d",
+        "amt": 3,
+        "claimed": false
+    },
+    {
+        "addr": "5fae9d4b591f213b3ba75287f2cfac0883d17f7a",
+        "address": "0x5fae9d4b591f213b3ba75287f2cfac0883d17f7a",
+        "amt": 3,
+        "claimed": false
+    },
+    {
+        "addr": "36c9a1623932415df5ca16ce4a26517258f7fef9",
+        "address": "0x36c9a1623932415df5ca16ce4a26517258f7fef9",
+        "amt": 3,
+        "claimed": false
+    },
+    {
+        "addr": "3e099af007cab8233d44782d8e6fe80fecdc321e",
+        "address": "0x3e099af007cab8233d44782d8e6fe80fecdc321e",
+        "amt": 3,
+        "claimed": false
+    },
+    {
+        "addr": "0x0AC30C6aaF2fFC01938d92AcA03F71f913636134",
+        "address": "0x0AC30C6aaF2fFC01938d92AcA03F71f913636134",
+        "amt": 4,
+        "claimed": false
+    },
+    {
+        "addr": "461ae8c33224aceb7f1259095dd2a334ad20f322",
+        "address": "0x461ae8c33224aceb7f1259095dd2a334ad20f322",
+        "amt": 4,
+        "claimed": false
+    },
+    {
+        "addr": "F9107317b0ff77ed5b7adea15e50514a3564002b",
+        "address": "0xF9107317b0ff77ed5b7adea15e50514a3564002b",
+        "amt": 4,
+        "claimed": false
+    },
+    {
+        "addr": "C6786a54882ca1591745d748a2a92813e35c1a5d",
+        "address": "0xC6786a54882ca1591745d748a2a92813e35c1a5d",
+        "amt": 4,
+        "claimed": false
+    },
+    {
+        "addr": "4147948b11ce851082f85fd7b56b76ae3a583560",
+        "address": "0x4147948b11ce851082f85fd7b56b76ae3a583560",
+        "amt": 4,
+        "claimed": false
+    },
+    {
+        "addr": "D430fc849c60107201ea4f569108716a90ab65e2",
+        "address": "0xD430fc849c60107201ea4f569108716a90ab65e2",
+        "amt": 4,
+        "claimed": false
+    },
+    {
+        "addr": "27f16caa7b6202c2230c3c99988c1b3388399745",
+        "address": "0x27f16caa7b6202c2230c3c99988c1b3388399745",
+        "amt": 4,
+        "claimed": false
+    },
+    {
+        "addr": "B276a9a6e7414529873af8b149369602c3a6206c",
+        "address": "0xB276a9a6e7414529873af8b149369602c3a6206c",
+        "amt": 4,
+        "claimed": true
+    },
+    {
+        "addr": "6186290b28d511bff971631c916244a9fc539cfe",
+        "address": "0x6186290b28d511bff971631c916244a9fc539cfe",
+        "amt": 4,
+        "claimed": true
+    },
+    {
+        "addr": "44e9d011df8741be2493e99297e9ad67bb1aa85b",
+        "address": "0x44e9d011df8741be2493e99297e9ad67bb1aa85b",
+        "amt": 5,
+        "claimed": false
+    },
+    {
+        "addr": "762da606029d3120735aa1eec15464e265db7a3c",
+        "address": "0x762da606029d3120735aa1eec15464e265db7a3c",
+        "amt": 6,
+        "claimed": false
+    },
+    {
+        "addr": "60874f721a66a2b9018c7cacc46151708864f52d",
+        "address": "0x60874f721a66a2b9018c7cacc46151708864f52d",
+        "amt": 6,
+        "claimed": false
+    },
+    {
+        "addr": "A5a37c94c0127679052938bf80795c8452e9379f",
+        "address": "0xA5a37c94c0127679052938bf80795c8452e9379f",
+        "amt": 6,
+        "claimed": false
+    },
+    {
+        "addr": "1d4b9b250b1bd41daa35d94bf9204ec1b0494ee3",
+        "address": "0x1d4b9b250b1bd41daa35d94bf9204ec1b0494ee3",
+        "amt": 8,
+        "claimed": false
+    },
+    {
+        "addr": "6186290b28d511bff971631c916244a9fc539cfe",
+        "address": "0x6186290b28d511bff971631c916244a9fc539cfe",
+        "amt": 13,
+        "claimed": true
+    },
+    {
+        "addr": "Ee402489d83e2b22d496910f8c810d35a3ad7b25",
+        "address": "0xEe402489d83e2b22d496910f8c810d35a3ad7b25",
+        "amt": 13,
+        "claimed": false
+    }
+]
